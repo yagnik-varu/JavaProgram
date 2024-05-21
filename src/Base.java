@@ -20,7 +20,7 @@ public class Base {
 }
 
 /*
- * IF All are static then followed this step of execution 
+ * IF All are static then follow this steps of execution 
  * 1. First identification to all varibale from top to bottom (Means all varibable assign with its default value)
  * 2. Initialization of all varibale from top to bottom 
  * 3. Run all static block from top to bottom
